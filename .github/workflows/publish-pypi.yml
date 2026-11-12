@@ -7,7 +7,7 @@
 # To enable, once:
 #   1. Create the project on https://pypi.org (or reserve the name).
 #   2. PyPI -> your project -> Publishing -> add a GitHub trusted publisher:
-#        owner       MrBeldum
+#        owner       runefoo
 #        repository  twitch-vod-pipeline
 #        workflow    publish-pypi.yml
 #        environment pypi
